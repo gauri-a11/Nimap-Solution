@@ -1,1 +1,1 @@
-DATABASE_URL = "mysql+pymysql://root:Gauri@#1234@localhost:3306/productdb"
+DATABASE_URL = "mysql+pymysql://root:root#1234@localhost:3306/productdb"
